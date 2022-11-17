@@ -1,0 +1,11 @@
+.cookie{
+  cursor: pointer;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-name: turnCookie;
+  width: 500px;
+}
+
+.cookie:hover{
+  transform: scale(1.10);
+}
